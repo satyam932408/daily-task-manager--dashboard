@@ -24,11 +24,13 @@ A beautiful and modern task management dashboard built with React.js. Stay organ
 ### Installation
 
 1. Install dependencies:
+
 ```bash
 npm install
 ```
 
 2. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -86,4 +88,3 @@ daily-task-manager/
 ## License
 
 MIT
-
